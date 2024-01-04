@@ -4,7 +4,7 @@
 
 - Funtions without set commands.
 - Answers questions in specified channels.
-- Works without speicified conditions and will remember your conversations up to 10 messages apart.
+- Works without specified conditions and will remember your conversations up to 10 messages apart.
   
 ## Installation and Setup -
 
