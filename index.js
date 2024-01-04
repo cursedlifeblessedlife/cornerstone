@@ -11,7 +11,7 @@ client.on('ready', () => {
 });
 
 const INGORE_PREFIX = "!";
-const CHANNELS = ['1192295997217448049'];
+const CHANNELS = [''];
 
 const openai = new OpenAI({
     apiKey: process.env.OPENAI_KEY,
