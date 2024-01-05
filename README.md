@@ -16,7 +16,7 @@
     ```
 
 2. **Install Node.js**:
-    Use the correct installation for your system, https://nodejs.org/en/download/
+    Use the correct installation for your system: https://nodejs.org/en/download/
 
 3. **Install Dependencies**:
 
